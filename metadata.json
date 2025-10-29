@@ -1,0 +1,5 @@
+{
+  "name": "Congresos Futuros AI Explorer",
+  "description": "An AI-powered interface to query a simulated database of talks and discussions from 15 'Congresos Futuros'. It identifies key themes, speakers, and provides comprehensive summaries suitable for large-scale visual display.",
+  "requestFramePermissions": []
+}
